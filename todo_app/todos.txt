@@ -3,3 +3,5 @@ testing write function with edit
 practicar python
 ver tv
 new order
+try new function on gui
+new test
